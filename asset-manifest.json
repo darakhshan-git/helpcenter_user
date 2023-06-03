@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a68e0b5.css",
+    "main.js": "/static/js/main.dc6fde19.js",
+    "static/media/home-img.png": "/static/media/home-img.2290572eabfcbb1d33d3.png",
+    "static/media/mission.png": "/static/media/mission.25c33ab3d5e2eb4e66dd.png",
+    "static/media/image1.png": "/static/media/image1.25e136e7c63d30e760c6.png",
+    "static/media/bhoomi3.png": "/static/media/bhoomi3.c5b6b3f6340700792020.png",
+    "static/media/about.png": "/static/media/about.2d3ced535fc64989d43e.png",
+    "static/media/experience.png": "/static/media/experience.3ba1fe326bd686d9779d.png",
+    "static/media/rise.png": "/static/media/rise.aa8b2f78c40241ed93a5.png",
+    "static/media/bhoomi1.png": "/static/media/bhoomi1.2b31fe913a40dcf3464d.png",
+    "static/media/image3.png": "/static/media/image3.25c9acc6edc7c4c1f88c.png",
+    "static/media/poor.png": "/static/media/poor.6cd0d087a359209689f1.png",
+    "static/media/bhoomi2.png": "/static/media/bhoomi2.f2dfbde558937e5e4d8f.png",
+    "static/media/testimonial.png": "/static/media/testimonial.e187eb145d398173146a.png",
+    "static/media/home1.png": "/static/media/home1.e1e71fcc00b9761e3327.png",
+    "static/media/image2.png": "/static/media/image2.dfc1b2b8b8b209759268.png",
+    "static/media/child.png": "/static/media/child.1f67f1044d8209e5ead0.png",
+    "static/media/banner.png": "/static/media/banner.5b38f67d1a1a4e96736a.png",
+    "static/media/article.png": "/static/media/article.123231641faedc358c7a.png",
+    "static/media/document.png": "/static/media/document.5c6c0d9332d862cf89a0.png",
+    "static/media/donate.jpg": "/static/media/donate.6343767f406c803f7753.jpg",
+    "static/media/image.png": "/static/media/image.d54a8256f1ed38964e10.png",
+    "static/media/full-logo.png": "/static/media/full-logo.a03339b6da97bd23e919.png",
+    "static/media/card1.png": "/static/media/card1.ff84b183711b43e99f8d.png",
+    "static/media/icon.png": "/static/media/icon.b2ca4131d1ebb2176459.png",
+    "static/media/card4.png": "/static/media/card4.6d4a96ca31e85c5b3ba3.png",
+    "static/media/card3.png": "/static/media/card3.afa9ac253ec975505f7c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.8a68e0b5.css.map": "/static/css/main.8a68e0b5.css.map",
+    "main.dc6fde19.js.map": "/static/js/main.dc6fde19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a68e0b5.css",
+    "static/js/main.dc6fde19.js"
+  ]
+}
